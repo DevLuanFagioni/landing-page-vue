@@ -1,7 +1,5 @@
 # Landing Page com VueJs
 
-<img width="1093" height="680" alt="launch-screen" src="https://github.com/user-attachments/assets/9606b18f-3df2-43ee-b73b-1c9744cd45dc" />
-
 ## Deploy
 
 Deploy do projeto: https://landing-page-vue-fagioni.netlify.app/
