@@ -26,7 +26,7 @@ Deploy do projeto: https://landing-page-vue-fagioni.netlify.app/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/DevLuanFagioni/landing-page-vue.git
 ```
 
 2. Acesse o projeto:
