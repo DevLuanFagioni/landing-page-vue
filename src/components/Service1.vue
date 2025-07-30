@@ -10,8 +10,7 @@ const service1Quote =
 const personName = "James Anderson";
 const designation = "Facebook, Product Lead";
 function youtubeVideoUrl() {
-  const youtubeVideoId = "FzRH7y3LbQE";
-  return `https://www.youtube.com/watch?v=${youtubeVideoId}&amp;t=9s`;
+  return `https://www.youtube.com/watch?v=0dLX40UMUKo&list=RD0dLX40UMUKo&start_radio=1`;
 }
 </script>
 <template>
